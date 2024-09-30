@@ -32,4 +32,3 @@ Ejemplos de algunos títulos obtenidos de la tabla:
 ## Conclusión
 
 Este ejercicio es un excelente punto de partida para aprender a consultar bases de datos relacionales con SQL. La instrucción `SELECT *` permite ver todos los datos almacenados en una tabla, facilitando la exploración inicial de su contenido.
-```
